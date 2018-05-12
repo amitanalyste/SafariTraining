@@ -10,3 +10,5 @@ tomatoXL = read_excel("data/ExcelExample.xlsx", sheet="Tomato")
 tomatoXL
 wineXL = read_excel("data/ExcelExample.xlsx", sheet = 2)
 wineXL
+
+file.info("data/ExcelExample.xlsx")
